@@ -1,0 +1,17 @@
+__history
+*.hex
+*.STA
+*.cof
+*.err
+*.esym
+*.lst
+*.sym
+*.tre
+*.xsym
+.~lock*
+*.key
+*.key.pub
+*.env
+*.idea
+
+stori-card-challenge

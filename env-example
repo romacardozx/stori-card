@@ -1,0 +1,9 @@
+POSTGRES_USER=your_username
+POSTGRES_PASSWORD=your_password
+POSTGRES_DATABASE=your_database
+SMTP_HOST=your_smtp_host
+SMTP_PORT=your_smtp_port
+SMTP_USERNAME=your_smtp_username=your_smtp_user
+SMTP_PASSWORD=your_password_smtp
+SMTP_FROM=your_remitter_email
+SMTP_TO=your_receiver_email
